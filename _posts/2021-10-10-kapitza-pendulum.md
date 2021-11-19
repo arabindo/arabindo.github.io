@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Lagrangian Dynamics of Kapitza Pendulum and It's Numerical Solution"
+title: "Lagrangian Dynamics of Kapitza's Pendulum and It's Numerical Solution"
 math: true
 ---
 ---
-Kapitza Pendulum is nothing but a regular pendulum which is inverted and pivoted to a oscillator. Interestingly, When the frequency of the oscillator is very high, the pendulum doesn't fall down. Here we seek for the equation of motion and numerical solution for such system. 
+Kapitza's Pendulum is nothing but a regular pendulum which is inverted and pivoted to a oscillator. Interestingly, When the frequency of the oscillator is very high, the pendulum doesn't fall down. Here we seek for the equation of motion and numerical solution for such system. 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9Q6HDpvbook" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
