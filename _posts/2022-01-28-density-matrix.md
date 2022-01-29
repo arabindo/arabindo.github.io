@@ -45,7 +45,7 @@ __Solution :__
 
 \\[ w(S_x;+)=3/10, \quad w(S_y;-)=9/20, \quad w(S_z;+)=1/4\\]
 $$\begin{eqnarray}
-\rho &=& \frac{3}{10}|S_x;+ \rangle \langle S_x;+ | + \frac{9}{20}|S_y;+ \rangle \langle S_y;+ | + \frac{1}{4}|S_z;+ \rangle \langle S_z;+ | \\
+\rho &=& \frac{3}{10}|S_x;+ \rangle \langle S_x;+ | + \frac{9}{20}|S_y;- \rangle \langle S_y;- | + \frac{1}{4}|S_z;+ \rangle \langle S_z;+ | \\
 &=& \frac{3}{10} \frac{1}{\sqrt{2}}(|+\rangle + |- \rangle) \frac{1}{\sqrt{2}}(\langle + | + \langle - |) + \frac{9}{20} \frac{1}{\sqrt{2}}(|+\rangle -i |- \rangle) \frac{1}{\sqrt{2}}(\langle + | + i\langle - |) + \frac{1}{4} | + \rangle \langle + | \\
 &=&
 \begin{pmatrix}
